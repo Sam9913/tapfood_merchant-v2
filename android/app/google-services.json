@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835487104401",
+    "firebase_url": "https://tapfood-5388a.firebaseio.com",
+    "project_id": "tapfood-5388a",
+    "storage_bucket": "tapfood-5388a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835487104401:android:a74ace5d18b3581bc92e30",
+        "android_client_info": {
+          "package_name": "com.tapfood.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835487104401-p3gsamr3pl25ekq97a524v7gnue3l2ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi0CZB55H3lA-4dEPo_fIyehmp8Qw1RIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835487104401-p3gsamr3pl25ekq97a524v7gnue3l2ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
